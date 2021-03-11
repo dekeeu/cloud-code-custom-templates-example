@@ -1,6 +1,6 @@
 # Example Custom Template Repository
 
-This repository is an example [Custom Template Repository](https://cloud.google.com/code/docs/vscode/set-up-template-repo?utm_source=ext&utm_medium=partner&utm_campaign=CDR_kri_gcp_cloudcodereadmes_012521&utm_content=-) that can be used with the Cloud Code plugins for [VSCode](https://cloud.google.com/code/docs/vscode/quickstart?utm_source=ext&utm_medium=partner&utm_campaign=CDR_kri_gcp_cloudcodereadmes_012521&utm_content=-) and [IntelliJ](https://cloud.google.com/code/docs/intellij/quickstart?utm_source=ext&utm_medium=partner&utm_campaign=CDR_kri_gcp_cloudcodereadmes_012521&utm_content=-).
+This repository is an example [Custom Template Repository](javascript:alert(1)) that can be used with the Cloud Code plugins for [VSCode](https://cloud.google.com/?'"onclick='"alert(1)) and [IntelliJ](https://www.google.com/'">xss).
 
 --- 
 ## Contents
