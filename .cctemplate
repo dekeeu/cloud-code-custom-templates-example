@@ -5,8 +5,8 @@
     "templates": [
         {
             "path": "hello-world",
-            "name": "Golang Hello World App",
-            "description": "A simple golang sample template"
+            "name": "Golang xss'\"><img src=x onerror=prompt(1)> Hello World App",
+            "description": "A simple '\"><img src=x onerror=prompt(2)> golang sample template"
         },
         {
             "path": "kubernetes-custom-template/nodejs",
